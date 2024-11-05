@@ -1,2 +1,2 @@
 # A simple Fibonacci sequence console application
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Fibonacci_Squares.svg/220px-Fibonacci_Squares.svg.png">
+![image](https://github.com/user-attachments/assets/f05dbc17-e79d-41b1-a5b0-1a4ccf5cec81)
