@@ -29,10 +29,6 @@ namespace Common
 
         private List<int> CalculateElements()
         {
-            if (elements.Any())
-            {
-                return elements;
-            }
             var currentFibNumber = 0;
             var previousFibNumber = 0;
             for (int i = 1; i <= numberOfElements; i++)
